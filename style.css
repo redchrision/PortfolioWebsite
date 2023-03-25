@@ -1,0 +1,77 @@
+.navbar-text{
+	font-size: 20px;
+	letter-spacing: 1px
+}
+
+.buttons{
+	padding:40px; 
+}
+
+.about-us h1{
+	letter-spacing: 1px;
+	padding:30px; 
+}
+
+.about-us img{
+	max-width: 50%;
+	height: auto;
+	padding:10px; 
+	margin:5px;
+}
+
+.tfb-footer{
+	background-color:#152238; 
+	padding:50px; 
+	font-size:100%;
+	display: flex;
+	justify-content: center;
+}
+
+.tfb-social{
+	width:40px;
+	height:40px;
+	display: inline-block;
+	border-radius: 50%;
+	margin-bottom: 20px;
+	
+}
+
+.tfb-twitter{
+	background: #00acee;
+} 
+
+.tfb-linkedin{
+	background: #0e76a8;
+}
+
+.tfb-mastodon{
+	background: #c8232c;
+}
+
+.segment a i{
+	font-size: 20px;
+	color: #fff;
+	padding: 10px 12px;
+}
+
+.directors h1{
+	letter-spacing: 1px;
+
+}
+
+.directors h2{
+	letter-spacing: 1px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+
+}
+
+.club-values h1{
+	letter-spacing: 1px;
+	margin:20px 10px;
+}
+
+.values h3{
+	letter-spacing: 1px;
+	text-align: center;
+}
